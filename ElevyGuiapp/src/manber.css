@@ -1,0 +1,13 @@
+.root{
+    -fx-background-color: #383838;
+    -fx-font-size:14pt; 
+    
+}
+.button{
+    -fx-background-color:aqua;
+}
+
+#bold-label{
+    -fx-font-weight:bold;
+    
+}
